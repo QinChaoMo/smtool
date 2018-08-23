@@ -1,0 +1,13 @@
+{
+  "name": "smtool",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "1qaz <443866942@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.8"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
